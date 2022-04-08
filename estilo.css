@@ -1,0 +1,84 @@
+body{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-image:url("fondo.png");
+padding: 20px;
+}
+
+h1{
+color:#f44336;
+text-align: center;
+border-top-left-radius:4px;color:#f44336;
+background-color: white;
+padding:5px;
+}
+
+ul{
+list-style-type: none;
+text-align: center;
+}
+
+li{
+display: inline-block;
+margin: 15px;
+padding: 10px;
+background-color:#ff9800; 
+letter-spacing: 0px; color: white;
+border-top-left-radius:2px;color:#ffffffff;
+}
+
+
+.articulo-impar{
+    text-align: left;
+}
+
+.articulo-par{  
+    text-align: right;
+}
+
+.titulo-par{
+ background-color:#ffc107;
+padding: 5px;
+color: white;
+}
+
+h2{
+background-color:#f44336;
+padding: 5px;
+color: white;
+}
+
+p{
+font-size: 20px;
+font-weight: bold;
+}
+
+
+.listas{
+list-style-type: square;
+font-style: italic;
+text-align: left;
+}
+
+
+.lista-1{
+text-size-adjust:24px;
+color: blue;
+}
+
+
+.lista-2{
+text-size-adjust:24px;
+color:red;
+}
+
+.lista-3{
+ text-size-adjust:24px;
+ color:green;
+}
+
+.titulo-h1{
+text-align: center;
+text-size-adjust: 0px;
+text-decoration:overline;
+color: black;
+}
